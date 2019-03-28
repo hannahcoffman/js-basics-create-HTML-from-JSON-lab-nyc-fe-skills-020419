@@ -52,7 +52,7 @@
   
   
 
-});
+//});
 
 
   // script tag should always be at the end of the body 
