@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", (e) => {
+//document.addEventListener("DOMContentLoaded", (e) => {
   const titanicButton = document.getElementById('Titanic')
   const terminatorButton = document.getElementById('Terminator 2')
   
